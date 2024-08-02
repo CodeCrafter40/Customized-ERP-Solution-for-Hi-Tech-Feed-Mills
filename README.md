@@ -49,3 +49,11 @@ Hi-Tech Feed Mills, a prominent player in the poultry industry, faced several op
 
 ## Conclusion  
 I delivered a customized ERP solution that addressed the specific challenges faced by Hi-Tech Feed Mills, leading to transformative changes in their operations. By leveraging tailored technology solutions, I demonstrated the profound impact of bespoke ERP systems in enhancing business operations within the poultry sector.
+
+## Snapshots
+ ![WhatsApp Image 2024-07-31 at 6 10 42 PM](https://github.com/user-attachments/assets/580854fc-5157-470b-8060-5c08682116db)
+![WhatsApp Image 2024-07-31 at 6 10 42 PM (1)](https://github.com/user-attachments/assets/5ed7b95f-d23f-4a1d-9016-ac4cd304cfda)
+![WhatsApp Image 2024-07-31 at 6 10 43 PM](https://github.com/user-attachments/assets/973b0a6a-8553-417e-a338-8fbf0881f365)
+![WhatsApp Image 2024-07-31 at 6 10 43 PM (1)](https://github.com/user-attachments/assets/c6471384-0aab-4900-ae86-9a9f5977250b)
+![WhatsApp Image 2024-07-31 at 6 10 44 PM](https://github.com/user-attachments/assets/32de05dd-16a3-47a5-8eed-f6725a1ea676)
+![WhatsApp Image 2024-07-31 at 6 10 53 PM](https://github.com/user-attachments/assets/0b9923af-4008-49b1-9cee-e8b02a09de68)
