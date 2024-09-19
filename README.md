@@ -29,6 +29,18 @@ Hi-Tech Feed Mills, a prominent player in the poultry industry, faced several op
    - Enhanced goal achievement with detailed activity reports and improved customer service with a dedicated post-sales module.  
 
 ## Integrations and Tech Stack  
+
+## Badges
+
+![Java](https://img.shields.io/badge/Java-17-blue?logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.7.10-brightgreen?logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-8.0.33-blue?logo=mysql&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-3.8.6-orange?logo=apache-maven&logoColor=white)
+![Git](https://img.shields.io/badge/Git-2.41.0-fc6d26?logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-24.0.4-blue?logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-2.396.1-blue?logo=jenkins&logoColor=white)
+
+
 - **Logistics Optimization:** AI-driven routing and predictive management modules.  
 - **Weight Bridge Integration:** Digital integration for accurate dispatch management.  
 - **Business Intelligence:** Advanced tools for monitoring feed conversion ratios (FCR) and analyzing sales, receivables, and payables.  
